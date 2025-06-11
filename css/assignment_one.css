@@ -35,6 +35,10 @@ div#mainBody {
     margin-bottom: 50px;
 }
 
+div#rightContainer, #leftContainer {
+    flex-basis: 50%;
+}
+
 /* --- rightContainer: grid details --- */
 
 #rightContainer {
