@@ -69,15 +69,15 @@ div#rightContainer, #leftContainer {
 }
 
 .gridImage.four {
-  grid-area: four
+  grid-area: four;
 }
 
 .gridImage.five {
-  grid-area: five
+  grid-area: five;
 }
 
 .gridImage.six {
-  grid-area: six
+  grid-area: six;
 }
 
 /* --- TABLET LAYOUT --- */
